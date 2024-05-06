@@ -8,9 +8,10 @@ Highly skilled Software Engineer with more than 8 years of experience in designi
 
 **Experience**
 
-![](Aspose.Words.3e37080e-34d5-4477-b196-eb85121d9dab.001.png) **Full Stack Developer**
 
-# FUTURETECH GROUP
+![](Aspose.Words.3e37080e-34d5-4477-b196-eb85121d9dab.002.png) **Full Stack Developer**
+
+# King Abdulaziz Foundation (Darah)  |  دارة اﻟﻤﻠﻚ ﻋﺒﺪاﻟﻌﺰﻳﺰ 
 
 Sep 2023 - Present (3 months)
 
@@ -26,9 +27,10 @@ Version Control and Deployment: Proficient in using Git for source code manageme
 
 Collaboration and Communication: Strong teamwork and collaboration skills, working effectively in cross-functional teams. Excellent verbal and written communication skills, explaining technical concepts to non-technical stakeholders. Proven ability to adapt to changing project requirements and priorities in an agile development environment.
 
-![](Aspose.Words.3e37080e-34d5-4477-b196-eb85121d9dab.002.png) **Full Stack Developer**
 
-# King Abdulaziz Foundation (Darah)  |  دارة اﻟﻤﻠﻚ ﻋﺒﺪاﻟﻌﺰﻳﺰ 
+![](Aspose.Words.3e37080e-34d5-4477-b196-eb85121d9dab.001.png) **Full Stack Developer**
+
+# FUTURETECH GROUP
 
 Sep 2023 - Present (3 months)
 
