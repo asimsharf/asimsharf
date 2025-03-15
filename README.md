@@ -1,4 +1,3 @@
-```md
 # Asim Abdelgadir
 
 **Mobile Application Developer @ GOSI | Flutter Expert**  
@@ -190,5 +189,5 @@ Asim Abdelgadir - page 8
 
 [ref1]: Aspose.Words.3e37080e-34d5-4477-b196-eb85121d9dab.007.png
 [ref2]: Aspose.Words.3e37080e-34d5-4477-b196-eb85121d9dab.008.png
-``` 
+
 
