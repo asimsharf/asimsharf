@@ -1,5 +1,3 @@
-Here is your updated `.md` file based on your latest resume from the LinkedIn PDF:
-
 ```md
 # Asim Abdelgadir
 
@@ -150,6 +148,47 @@ In collaboration with **Zivra Technologies**, I have developed cross-platform ap
 
 ---
 
-This `.md` file is a **cleaner, updated** version of your resume with the latest details. Let me know if you need any **modifications** or **additional formatting**! 🚀
+
+**Licenses & Certifications**
+
+**C Programming: Getting Started - 1** - Coursera![ref1]
+
+79LWD8MPXNYA
+
+**C Programming: Language Foundations - 2** - Coursera![ref1]
+
+XF7Y7Z2YMMJE
+
+![ref1]BRY4RKHTX74V **C Programming: Modular Programming and Memory Management - 3** - Coursera 
+
+![ref1]NMYEACM8S553 **C Programming: Pointers and Memory Management - 4** - Coursera 
+
+![ref2]UC-7f53db38-8475-4357-8e18-8e7df18e5db2 **Beginning C++ Programming - From Beginner to Beyond** - Udemy 
+
+![ref2]UC-d22e82f7-83f0-4fe6-a3f8-b3bef9996647 **Vue - The Complete Guide (incl. Router & Composition API)** - Udemy 
+
+![ref2]UC-c3f02bbd-f6c6-44e5-b7aa-6dcc7fb8fcf7 **Data Structures and Algorithms : Deep Dive Using C++** - Udemy 
+
+![ref2]UC-139c37b6-0a31-4288-9287-1a9fc6ded779 **Advanced C Programming Course** - Udemy 
+
+![ref2]UC-6418053f-1043-4dd4-adde-32f739e2460a **Data Structures and Algorithms: Deep Dive Using Java** - Udemy 
+
+![ref1]XRESE8S2K5UG **C Programming: Advanced Data Types - 5** - Coursera 
+
+![ref1]D5XRGJQZJ2E3 **Linux Basics: The Command Line Interface - 6** - Coursera 
+
+![ref1]P5SPLM9PB263 **C Programming: Using Linux Tools and Libraries - 7** - Coursera 
+
+![ref2]UC-15afd0f8-892c-4d55-ba0f-8f7626d6bb28 **Spring Boot 3, Spring 6 & Hibernate** - Udemy 
+
+![ref2]UC-d6cc68e8-b052-4da9-b4d4-37354225b212 **NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)** - Udemy 
+
+**Skills**
+
+Laravel   •  AngularJS  •  Python (Programming Language)  •  Spring Security  •  Spring Data  •  Spring MVC  •  Hibernate  •  Spring Framework  •  Kotlin  •  Git
+Asim Abdelgadir - page 8
+
+[ref1]: Aspose.Words.3e37080e-34d5-4477-b196-eb85121d9dab.007.png
+[ref2]: Aspose.Words.3e37080e-34d5-4477-b196-eb85121d9dab.008.png
 ``` 
 
